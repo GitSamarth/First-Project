@@ -1,27 +1,42 @@
-6
+# Python in 2 Hours – Beginner-Friendly Tutorial
 
-# **Title: Facial Expression Recognition**
+Welcome! This repository contains a Python notebook designed to help you **learn Python basics in just 2 hours** if you already know at least one other programming language.  
+If you're a complete beginner, you can still use this notebook, but it may take longer than 2 hours as you explore the fundamental concepts.
 
+## 📖 What’s Included
 
-## **1. Methodology**
-<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
+- Step-by-step introduction to Python programming
+- Simple explanations for each concept
+- Example code snippets and hands-on exercises
+- Useful for quick revision or learning from scratch
 
+## 🚀 How to Use
 
-## **2. Description**
-<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
+1. **Find the `.ipynb` file** (for example: `learn_python_in_2_hours.ipynb`) in this repository.
+2. **Click the notebook file** to preview it on GitHub.
+3. **Open in Google Colab:**  
+   At the top of the preview, click on "Open in Colab" (or use the Colab extension if you have it).
+4. **Run each code cell** by clicking the play icons or pressing `Shift+Enter`.
+5. **Follow along** with the instructions and try editing code as you learn.
 
+## 📋 Requirements
 
-## **3. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
+- A Google account (to use Google Colab)
+- **Recommended:** Experience with at least one programming language (for a true "2 hours" experience)
+- **Not required:** You can start as a complete beginner, just expect to spend more time
 
+## ✨ Who Is This For?
 
-## **4. Live link**
-Link: www.FacialExpressionRecognition.com
+- Learners who already know any programming language and want to pick up Python quickly
+- Students looking for a fast Python basics revision
+- Beginners ready to learn interactively and spend a little extra time
 
+## 📝 Notes
 
-## **5. Screenshot of the Interface**
-<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
+- Everything runs in the browser using Google Colab—no installations needed
+- Found a mistake or have suggestions? Open an issue or pull request!
 
+## 🎯 Ready to Start?
 
-
-
+> Click the notebook, open it in Colab, and enjoy learning Python—whether you finish in 2 hours or at your own pace.  
+> Happy coding!
